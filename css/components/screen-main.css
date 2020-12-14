@@ -27,3 +27,6 @@
 .screen-main__btn i {
   margin-right: 5px;
 }
+.screen-main__btn:hover {
+  animation: btnHover 1s ease-in-out;
+}
